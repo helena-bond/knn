@@ -1,0 +1,137 @@
+kNN k = 1
+Regression
+Out-of-sample errors variance for Y1 	 0.1737
+Out-of-sample errors mean for Y1 	 0.3781
+
+Out-of-sample errors variance for Y2 	 3.9989
+Out-of-sample errors mean for Y2 	 1.3678
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2858
+Out-of-sample errors mean for Y1 	 0.3711
+
+Out-of-sample errors variance for Y2 	 4.1681
+Out-of-sample errors mean for Y2 	 1.3268
+
+kNN k = 2
+Regression
+Out-of-sample errors variance for Y1 	 0.2059
+Out-of-sample errors mean for Y1 	 0.3555
+
+Out-of-sample errors variance for Y2 	 3.1223
+Out-of-sample errors mean for Y2 	 1.2643
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2858
+Out-of-sample errors mean for Y1 	 0.3711
+
+Out-of-sample errors variance for Y2 	 4.1681
+Out-of-sample errors mean for Y2 	 1.3268
+
+kNN k = 3
+Regression
+Out-of-sample errors variance for Y1 	 0.1833
+Out-of-sample errors mean for Y1 	 0.3524
+
+Out-of-sample errors variance for Y2 	 2.7284
+Out-of-sample errors mean for Y2 	 1.2552
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+kNN k = 4
+Regression
+Out-of-sample errors variance for Y1 	 1.0043
+Out-of-sample errors mean for Y1 	 0.9805
+
+Out-of-sample errors variance for Y2 	 3.1843
+Out-of-sample errors mean for Y2 	 1.5833
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+kNN k = 5
+Regression
+Out-of-sample errors variance for Y1 	 2.5231
+Out-of-sample errors mean for Y1 	 1.5150
+
+Out-of-sample errors variance for Y2 	 4.6254
+Out-of-sample errors mean for Y2 	 1.8881
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+kNN k = 6
+Regression
+Out-of-sample errors variance for Y1 	 4.0262
+Out-of-sample errors mean for Y1 	 1.9040
+
+Out-of-sample errors variance for Y2 	 5.8234
+Out-of-sample errors mean for Y2 	 2.1921
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+kNN k = 7
+Regression
+Out-of-sample errors variance for Y1 	 5.3424
+Out-of-sample errors mean for Y1 	 2.1884
+
+Out-of-sample errors variance for Y2 	 6.8511
+Out-of-sample errors mean for Y2 	 2.4808
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+kNN k = 8
+Regression
+Out-of-sample errors variance for Y1 	 5.3320
+Out-of-sample errors mean for Y1 	 2.0961
+
+Out-of-sample errors variance for Y2 	 6.6464
+Out-of-sample errors mean for Y2 	 2.4262
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+kNN k = 9
+Regression
+Out-of-sample errors variance for Y1 	 5.3931
+Out-of-sample errors mean for Y1 	 2.0284
+
+Out-of-sample errors variance for Y2 	 6.6104
+Out-of-sample errors mean for Y2 	 2.3854
+
+Classification
+Out-of-sample errors variance for Y1 	 0.2688
+Out-of-sample errors mean for Y1 	 0.3659
+
+Out-of-sample errors variance for Y2 	 4.6805
+Out-of-sample errors mean for Y2 	 1.4271
+
+Best k for regression { Y1: 3, Y2: 3 }
+Best k for classification { Y1: 3, Y2: 1 }
