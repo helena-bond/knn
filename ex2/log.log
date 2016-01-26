@@ -1,0 +1,271 @@
+K = 5
+Out-of-sample errors variance for field42 	 0.3076
+Out-of-sample errors mean for field42 	 0.0965
+
+F-score for field field42
+class 1 { tp: 983,
+  fp: 547,
+  fn: 17,
+  precision: 0.642483660130719,
+  recall: 0.983,
+  f: 0.7770750988142292 }
+class 2 { tp: 960,
+  fp: 28,
+  fn: 37,
+  precision: 0.97165991902834,
+  recall: 0.9628886659979939,
+  f: 0.9672544080604533 }
+class 3 { tp: 404,
+  fp: 16,
+  fn: 83,
+  precision: 0.9619047619047619,
+  recall: 0.8295687885010267,
+  f: 0.8908489525909592 }
+class 4 { tp: 22,
+  fp: 30,
+  fn: 478,
+  precision: 0.4230769230769231,
+  recall: 0.044,
+  f: 0.07971014492753623 }
+class 5 { tp: 65,
+  fp: 29,
+  fn: 35,
+  precision: 0.6914893617021277,
+  recall: 0.65,
+  f: 0.6701030927835052 }
+Weighted f-score 0.8618086914291304
+Confusion matrix [ ,
+  [ , 983, 0, 16, 0, 1 ],
+  [ , 32, 960, 0, 2, 3 ],
+  [ , 33, 28, 404, 20, 2 ],
+  [ , 455, 0, 0, 22, 23 ],
+  [ , 27, 0, 0, 8, 65 ] ]
+Out-of-sample errors variance for field42 	 1.2821
+Out-of-sample errors mean for field42 	 0.5522
+
+-----------------
+K = 6
+Out-of-sample errors variance for field42 	 0.3095
+Out-of-sample errors mean for field42 	 0.0975
+
+F-score for field field42
+class 1 { tp: 983,
+  fp: 548,
+  fn: 17,
+  precision: 0.6420640104506858,
+  recall: 0.983,
+  f: 0.7767680758593443 }
+class 2 { tp: 960,
+  fp: 28,
+  fn: 37,
+  precision: 0.97165991902834,
+  recall: 0.9628886659979939,
+  f: 0.9672544080604533 }
+class 3 { tp: 403,
+  fp: 16,
+  fn: 84,
+  precision: 0.9618138424821002,
+  recall: 0.8275154004106776,
+  f: 0.8896247240618101 }
+class 4 { tp: 20,
+  fp: 30,
+  fn: 480,
+  precision: 0.4,
+  recall: 0.04,
+  f: 0.07272727272727272 }
+class 5 { tp: 65,
+  fp: 31,
+  fn: 35,
+  precision: 0.6770833333333334,
+  recall: 0.65,
+  f: 0.6632653061224489 }
+Weighted f-score 0.8618728113768755
+Confusion matrix [ ,
+  [ , 983, 0, 16, 0, 1 ],
+  [ , 32, 960, 0, 2, 3 ],
+  [ , 34, 28, 403, 20, 2 ],
+  [ , 455, 0, 0, 20, 25 ],
+  [ , 27, 0, 0, 8, 65 ] ]
+Out-of-sample errors variance for field42 	 1.2826
+Out-of-sample errors mean for field42 	 0.5535
+
+-----------------
+K = 7
+Out-of-sample errors variance for field42 	 0.3055
+Out-of-sample errors mean for field42 	 0.0961
+
+F-score for field field42
+class 1 { tp: 983,
+  fp: 549,
+  fn: 17,
+  precision: 0.641644908616188,
+  recall: 0.983,
+  f: 0.7764612954186414 }
+class 2 { tp: 960,
+  fp: 28,
+  fn: 37,
+  precision: 0.97165991902834,
+  recall: 0.9628886659979939,
+  f: 0.9672544080604533 }
+class 3 { tp: 398,
+  fp: 16,
+  fn: 89,
+  precision: 0.961352657004831,
+  recall: 0.8172484599589322,
+  f: 0.8834628190899002 }
+class 4 { tp: 20,
+  fp: 30,
+  fn: 480,
+  precision: 0.4,
+  recall: 0.04,
+  f: 0.07272727272727272 }
+class 5 { tp: 65, fp: 35, fn: 35, precision: 0.65, recall: 0.65, f: 0.65 }
+Weighted f-score 0.8603249928222939
+Confusion matrix [ ,
+  [ , 983, 0, 16, 0, 1 ],
+  [ , 32, 960, 0, 2, 3 ],
+  [ , 35, 28, 398, 20, 6 ],
+  [ , 455, 0, 0, 20, 25 ],
+  [ , 27, 0, 0, 8, 65 ] ]
+Out-of-sample errors variance for field42 	 1.2855
+Out-of-sample errors mean for field42 	 0.5567
+
+-----------------
+K = 8
+Out-of-sample errors variance for field42 	 0.2903
+Out-of-sample errors mean for field42 	 0.0936
+
+F-score for field field42
+class 1 { tp: 983,
+  fp: 549,
+  fn: 17,
+  precision: 0.641644908616188,
+  recall: 0.983,
+  f: 0.7764612954186414 }
+class 2 { tp: 960,
+  fp: 28,
+  fn: 37,
+  precision: 0.97165991902834,
+  recall: 0.9628886659979939,
+  f: 0.9672544080604533 }
+class 3 { tp: 396,
+  fp: 16,
+  fn: 91,
+  precision: 0.9611650485436893,
+  recall: 0.813141683778234,
+  f: 0.8809788654060067 }
+class 4 { tp: 20,
+  fp: 31,
+  fn: 480,
+  precision: 0.39215686274509803,
+  recall: 0.04,
+  f: 0.07259528130671507 }
+class 5 { tp: 65,
+  fp: 36,
+  fn: 35,
+  precision: 0.6435643564356436,
+  recall: 0.65,
+  f: 0.6467661691542289 }
+Weighted f-score 0.8598123029936046
+Confusion matrix [ ,
+  [ , 983, 0, 16, 0, 1 ],
+  [ , 32, 960, 0, 2, 3 ],
+  [ , 35, 28, 396, 21, 7 ],
+  [ , 455, 0, 0, 20, 25 ],
+  [ , 27, 0, 0, 8, 65 ] ]
+Out-of-sample errors variance for field42 	 1.2860
+Out-of-sample errors mean for field42 	 0.5577
+
+-----------------
+K = 9
+Out-of-sample errors variance for field42 	 0.2823
+Out-of-sample errors mean for field42 	 0.0922
+
+F-score for field field42
+class 1 { tp: 983,
+  fp: 551,
+  fn: 17,
+  precision: 0.6408083441981747,
+  recall: 0.983,
+  f: 0.7758484609313339 }
+class 2 { tp: 960,
+  fp: 28,
+  fn: 37,
+  precision: 0.97165991902834,
+  recall: 0.9628886659979939,
+  f: 0.9672544080604533 }
+class 3 { tp: 395,
+  fp: 16,
+  fn: 92,
+  precision: 0.9610705596107056,
+  recall: 0.811088295687885,
+  f: 0.8797327394209353 }
+class 4 { tp: 19,
+  fp: 31,
+  fn: 481,
+  precision: 0.38,
+  recall: 0.038,
+  f: 0.06909090909090909 }
+class 5 { tp: 65,
+  fp: 36,
+  fn: 35,
+  precision: 0.6435643564356436,
+  recall: 0.65,
+  f: 0.6467661691542289 }
+Weighted f-score 0.8596491449927983
+Confusion matrix [ ,
+  [ , 983, 0, 16, 0, 1 ],
+  [ , 32, 960, 0, 2, 3 ],
+  [ , 36, 28, 395, 21, 7 ],
+  [ , 456, 0, 0, 19, 25 ],
+  [ , 27, 0, 0, 8, 65 ] ]
+Out-of-sample errors variance for field42 	 1.2884
+Out-of-sample errors mean for field42 	 0.5593
+
+-----------------
+K = 10
+Out-of-sample errors variance for field42 	 0.2830
+Out-of-sample errors mean for field42 	 0.0925
+
+F-score for field field42
+class 1 { tp: 984,
+  fp: 552,
+  fn: 16,
+  precision: 0.640625,
+  recall: 0.984,
+  f: 0.77602523659306 }
+class 2 { tp: 959,
+  fp: 28,
+  fn: 38,
+  precision: 0.9716312056737588,
+  recall: 0.9618856569709128,
+  f: 0.9667338709677419 }
+class 3 { tp: 384,
+  fp: 16,
+  fn: 103,
+  precision: 0.96,
+  recall: 0.7885010266940452,
+  f: 0.8658399098083427 }
+class 4 { tp: 19,
+  fp: 44,
+  fn: 481,
+  precision: 0.30158730158730157,
+  recall: 0.038,
+  f: 0.0674955595026643 }
+class 5 { tp: 64,
+  fp: 34,
+  fn: 36,
+  precision: 0.6530612244897959,
+  recall: 0.64,
+  f: 0.6464646464646464 }
+Weighted f-score 0.8571972171934966
+Confusion matrix [ ,
+  [ , 984, 0, 16, 0, 0 ],
+  [ , 32, 959, 0, 2, 4 ],
+  [ , 36, 28, 384, 34, 5 ],
+  [ , 456, 0, 0, 19, 25 ],
+  [ , 28, 0, 0, 8, 64 ] ]
+Out-of-sample errors variance for field42 	 1.2886
+Out-of-sample errors mean for field42 	 0.5632
+
+-----------------
