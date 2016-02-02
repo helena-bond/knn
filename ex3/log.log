@@ -1,0 +1,110 @@
+K = 1
+Leave-One-Out
+C-index for attribute c_total is 0.8992
+C-index for attribute Cd is 0.9008
+C-index for attribute Pb is 0.8661
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8171
+C-index for attribute Cd is 0.7408
+C-index for attribute Pb is 0.7359
+
+K = 2
+Leave-One-Out
+C-index for attribute c_total is 0.9079
+C-index for attribute Cd is 0.9046
+C-index for attribute Pb is 0.8747
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8196
+C-index for attribute Cd is 0.7444
+C-index for attribute Pb is 0.7515
+
+K = 3
+Leave-One-Out
+C-index for attribute c_total is 0.9041
+C-index for attribute Cd is 0.8829
+C-index for attribute Pb is 0.8625
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8193
+C-index for attribute Cd is 0.7361
+C-index for attribute Pb is 0.7509
+
+K = 4
+Leave-One-Out
+C-index for attribute c_total is 0.9024
+C-index for attribute Cd is 0.8634
+C-index for attribute Pb is 0.8625
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8267
+C-index for attribute Cd is 0.7300
+C-index for attribute Pb is 0.7563
+
+K = 5
+Leave-One-Out
+C-index for attribute c_total is 0.8918
+C-index for attribute Cd is 0.8383
+C-index for attribute Pb is 0.8514
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8168
+C-index for attribute Cd is 0.7298
+C-index for attribute Pb is 0.7564
+
+K = 6
+Leave-One-Out
+C-index for attribute c_total is 0.8812
+C-index for attribute Cd is 0.8192
+C-index for attribute Pb is 0.8499
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8112
+C-index for attribute Cd is 0.7216
+C-index for attribute Pb is 0.7574
+
+K = 7
+Leave-One-Out
+C-index for attribute c_total is 0.8739
+C-index for attribute Cd is 0.8101
+C-index for attribute Pb is 0.8431
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8188
+C-index for attribute Cd is 0.7250
+C-index for attribute Pb is 0.7575
+
+K = 8
+Leave-One-Out
+C-index for attribute c_total is 0.8709
+C-index for attribute Cd is 0.7956
+C-index for attribute Pb is 0.8430
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8184
+C-index for attribute Cd is 0.7216
+C-index for attribute Pb is 0.7587
+
+K = 9
+Leave-One-Out
+C-index for attribute c_total is 0.8680
+C-index for attribute Cd is 0.7933
+C-index for attribute Pb is 0.8370
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8177
+C-index for attribute Cd is 0.7145
+C-index for attribute Pb is 0.7588
+
+K = 10
+Leave-One-Out
+C-index for attribute c_total is 0.8643
+C-index for attribute Cd is 0.7878
+C-index for attribute Pb is 0.8317
+
+Leave-Three-Out
+C-index for attribute c_total is 0.8151
+C-index for attribute Cd is 0.7058
+C-index for attribute Pb is 0.7591
+
