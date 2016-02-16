@@ -1,0 +1,23 @@
+Unmodified leave-one-out cross-validation
+C-index for attribute output is 0.9917
+Modified leave-one-out cross-validation
+k = 1
+C-index for attribute output is 0.6232
+k = 2
+C-index for attribute output is 0.6232
+k = 3
+C-index for attribute output is 0.6624
+k = 4
+C-index for attribute output is 0.6522
+k = 5
+C-index for attribute output is 0.6301
+k = 6
+C-index for attribute output is 0.6100
+k = 7
+C-index for attribute output is 0.6067
+k = 8
+C-index for attribute output is 0.6067
+k = 9
+C-index for attribute output is 0.6202
+k = 10
+C-index for attribute output is 0.6456
