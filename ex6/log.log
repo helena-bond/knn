@@ -1,0 +1,3530 @@
+Sample size of 10
+[ { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.0000' },
+    variance: { output: '2.0000' },
+    c_index: { output: 0 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '0.4000' },
+    c_index: { output: 0.8 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.4000' },
+    variance: { output: '1.8000' },
+    c_index: { output: 0.1 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.0000' },
+    variance: { output: '2.0000' },
+    c_index: { output: 0 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.4000' },
+    variance: { output: '1.8000' },
+    c_index: { output: 0.1 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.4000' },
+    variance: { output: '1.8000' },
+    c_index: { output: 0.1 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '0.4000' },
+    c_index: { output: 0.8 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '0.6000' },
+    c_index: { output: 0.7 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '0.4000' },
+    c_index: { output: 0.8 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.0000' },
+    variance: { output: '0.0000' },
+    c_index: { output: 1 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.4000' },
+    variance: { output: '1.8000' },
+    c_index: { output: 0.1 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.0000' },
+    variance: { output: '2.0000' },
+    c_index: { output: 0 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '0.6000' },
+    c_index: { output: 0.7 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.4000' },
+    variance: { output: '0.2000' },
+    c_index: { output: 0.9 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '0.6000' },
+    c_index: { output: 0.7 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.4000' },
+    variance: { output: '1.8000' },
+    c_index: { output: 0.1 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.1111' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '0.4000' },
+    c_index: { output: 0.8 } },
+  { mean: { output: '1.0667' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.7111' },
+    variance: { output: '1.6000' },
+    c_index: { output: 0.2 } },
+  { mean: { output: '0.9333' },
+    variance: { output: '0.6000' },
+    c_index: { output: 0.7 } } ]
+Sample size of 50
+[ { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9159' },
+    variance: { output: '1.3200' },
+    c_index: { output: 0.34 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '0.8882' },
+    variance: { output: '1.3600' },
+    c_index: { output: 0.32 } },
+  { mean: { output: '0.9404' },
+    variance: { output: '1.2800' },
+    c_index: { output: 0.36 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '0.9943' },
+    variance: { output: '0.8400' },
+    c_index: { output: 0.58 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '0.7445' },
+    variance: { output: '0.4800' },
+    c_index: { output: 0.76 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9943' },
+    variance: { output: '0.8400' },
+    c_index: { output: 0.58 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '0.9943' },
+    variance: { output: '1.1600' },
+    c_index: { output: 0.42 } },
+  { mean: { output: '0.9404' },
+    variance: { output: '1.2800' },
+    c_index: { output: 0.36 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.7853' },
+    variance: { output: '1.4800' },
+    c_index: { output: 0.26 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '0.9159' },
+    variance: { output: '1.3200' },
+    c_index: { output: 0.34 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '1.2400' },
+    c_index: { output: 0.38 } },
+  { mean: { output: '0.9159' },
+    variance: { output: '1.3200' },
+    c_index: { output: 0.34 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '1.2400' },
+    c_index: { output: 0.38 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.8571' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '0.8571' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.8882' },
+    variance: { output: '1.3600' },
+    c_index: { output: 0.32 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '0.8229' },
+    variance: { output: '1.4400' },
+    c_index: { output: 0.28 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '0.9943' },
+    variance: { output: '1.1600' },
+    c_index: { output: 0.42 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9943' },
+    variance: { output: '0.8400' },
+    c_index: { output: 0.58 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '1.2400' },
+    c_index: { output: 0.38 } },
+  { mean: { output: '0.9159' },
+    variance: { output: '1.3200' },
+    c_index: { output: 0.34 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '0.7600' },
+    c_index: { output: 0.62 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '0.7004' },
+    variance: { output: '1.5600' },
+    c_index: { output: 0.22 } },
+  { mean: { output: '0.9943' },
+    variance: { output: '1.1600' },
+    c_index: { output: 0.42 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '1.2400' },
+    c_index: { output: 0.38 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '1.0188' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0057' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '0.7600' },
+    c_index: { output: 0.62 } },
+  { mean: { output: '0.9616' },
+    variance: { output: '0.7600' },
+    c_index: { output: 0.62 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '0.8571' },
+    variance: { output: '1.4000' },
+    c_index: { output: 0.3 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0139' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0204' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9796' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } } ]
+Sample size of 100
+[ { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9519' },
+    variance: { output: '1.2400' },
+    c_index: { output: 0.38 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '1.0600' },
+    c_index: { output: 0.47 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '0.9519' },
+    variance: { output: '1.2400' },
+    c_index: { output: 0.38 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '0.9400' },
+    c_index: { output: 0.53 } },
+  { mean: { output: '0.9067' },
+    variance: { output: '0.6800' },
+    c_index: { output: 0.66 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '1.0600' },
+    c_index: { output: 0.47 } },
+  { mean: { output: '0.9418' },
+    variance: { output: '1.2600' },
+    c_index: { output: 0.37 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '1.0600' },
+    c_index: { output: 0.47 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '1.0600' },
+    c_index: { output: 0.47 } },
+  { mean: { output: '0.8319' },
+    variance: { output: '1.4200' },
+    c_index: { output: 0.29 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '0.9400' },
+    c_index: { output: 0.53 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '0.9000' },
+    c_index: { output: 0.55 } },
+  { mean: { output: '0.9309' },
+    variance: { output: '1.2800' },
+    c_index: { output: 0.36 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '1.1200' },
+    c_index: { output: 0.44 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.8933' },
+    variance: { output: '1.3400' },
+    c_index: { output: 0.33 } },
+  { mean: { output: '0.9418' },
+    variance: { output: '0.7400' },
+    c_index: { output: 0.63 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '0.9774' },
+    variance: { output: '1.1800' },
+    c_index: { output: 0.41 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '0.9000' },
+    c_index: { output: 0.55 } },
+  { mean: { output: '0.9774' },
+    variance: { output: '0.8200' },
+    c_index: { output: 0.59 } },
+  { mean: { output: '0.9697' },
+    variance: { output: '1.2000' },
+    c_index: { output: 0.4 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '0.9400' },
+    c_index: { output: 0.53 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '0.9000' },
+    c_index: { output: 0.55 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '0.9903' },
+    variance: { output: '0.8600' },
+    c_index: { output: 0.57 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9903' },
+    variance: { output: '0.8600' },
+    c_index: { output: 0.57 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '0.9774' },
+    variance: { output: '1.1800' },
+    c_index: { output: 0.41 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '0.9774' },
+    variance: { output: '1.1800' },
+    c_index: { output: 0.41 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9774' },
+    variance: { output: '0.8200' },
+    c_index: { output: 0.59 } },
+  { mean: { output: '0.9842' },
+    variance: { output: '1.1600' },
+    c_index: { output: 0.42 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '1.0400' },
+    c_index: { output: 0.48 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '0.9842' },
+    variance: { output: '1.1600' },
+    c_index: { output: 0.42 } },
+  { mean: { output: '0.9697' },
+    variance: { output: '0.8000' },
+    c_index: { output: 0.6 } },
+  { mean: { output: '0.9903' },
+    variance: { output: '0.8600' },
+    c_index: { output: 0.57 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '0.9418' },
+    variance: { output: '1.2600' },
+    c_index: { output: 0.37 } },
+  { mean: { output: '1.0036' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0085' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9903' },
+    variance: { output: '1.1400' },
+    c_index: { output: 0.43 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.8800' },
+    c_index: { output: 0.56 } },
+  { mean: { output: '1.0000' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '1.0101' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9774' },
+    variance: { output: '0.8200' },
+    c_index: { output: 0.59 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '1.0600' },
+    c_index: { output: 0.47 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } },
+  { mean: { output: '1.0065' },
+    variance: { output: '0.9400' },
+    c_index: { output: 0.53 } },
+  { mean: { output: '1.0097' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } } ]
+Sample size of 500
+[ { mean: { output: '1.0004' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0004' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9993' },
+    variance: { output: '0.9480' },
+    c_index: { output: 0.526 } },
+  { mean: { output: '0.9942' },
+    variance: { output: '1.0880' },
+    c_index: { output: 0.456 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0016' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '0.9789' },
+    variance: { output: '0.8480' },
+    c_index: { output: 0.576 } },
+  { mean: { output: '0.9928' },
+    variance: { output: '1.0960' },
+    c_index: { output: 0.452 } },
+  { mean: { output: '0.9962' },
+    variance: { output: '0.9240' },
+    c_index: { output: 0.538 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '0.9880' },
+    c_index: { output: 0.506 } },
+  { mean: { output: '0.9928' },
+    variance: { output: '0.9040' },
+    c_index: { output: 0.548 } },
+  { mean: { output: '0.9962' },
+    variance: { output: '1.0760' },
+    c_index: { output: 0.462 } },
+  { mean: { output: '0.9997' },
+    variance: { output: '0.9520' },
+    c_index: { output: 0.524 } },
+  { mean: { output: '0.9949' },
+    variance: { output: '1.0840' },
+    c_index: { output: 0.458 } },
+  { mean: { output: '0.9920' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '1.0017' },
+    variance: { output: '0.9840' },
+    c_index: { output: 0.508 } },
+  { mean: { output: '0.9968' },
+    variance: { output: '0.9280' },
+    c_index: { output: 0.536 } },
+  { mean: { output: '0.9989' },
+    variance: { output: '1.0560' },
+    c_index: { output: 0.472 } },
+  { mean: { output: '1.0016' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '0.9974' },
+    variance: { output: '0.9320' },
+    c_index: { output: 0.534 } },
+  { mean: { output: '1.0010' },
+    variance: { output: '0.9680' },
+    c_index: { output: 0.516 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '1.0040' },
+    c_index: { output: 0.498 } },
+  { mean: { output: '0.9993' },
+    variance: { output: '0.9480' },
+    c_index: { output: 0.526 } },
+  { mean: { output: '0.9920' },
+    variance: { output: '1.1000' },
+    c_index: { output: 0.45 } },
+  { mean: { output: '1.0017' },
+    variance: { output: '0.9840' },
+    c_index: { output: 0.508 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '1.0080' },
+    c_index: { output: 0.496 } },
+  { mean: { output: '0.9968' },
+    variance: { output: '0.9280' },
+    c_index: { output: 0.536 } },
+  { mean: { output: '0.9935' },
+    variance: { output: '0.9080' },
+    c_index: { output: 0.546 } },
+  { mean: { output: '0.9845' },
+    variance: { output: '1.1320' },
+    c_index: { output: 0.434 } },
+  { mean: { output: '1.0016' },
+    variance: { output: '0.9800' },
+    c_index: { output: 0.51 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '1.0080' },
+    c_index: { output: 0.496 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '0.9920' },
+    c_index: { output: 0.504 } },
+  { mean: { output: '0.9989' },
+    variance: { output: '0.9440' },
+    c_index: { output: 0.528 } },
+  { mean: { output: '0.9845' },
+    variance: { output: '0.8680' },
+    c_index: { output: 0.566 } },
+  { mean: { output: '0.9968' },
+    variance: { output: '0.9280' },
+    c_index: { output: 0.536 } },
+  { mean: { output: '0.9942' },
+    variance: { output: '1.0880' },
+    c_index: { output: 0.456 } },
+  { mean: { output: '0.9974' },
+    variance: { output: '0.9320' },
+    c_index: { output: 0.534 } },
+  { mean: { output: '0.9984' },
+    variance: { output: '1.0600' },
+    c_index: { output: 0.47 } },
+  { mean: { output: '1.0012' },
+    variance: { output: '1.0280' },
+    c_index: { output: 0.486 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '0.9880' },
+    c_index: { output: 0.506 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '0.9960' },
+    c_index: { output: 0.502 } },
+  { mean: { output: '0.9885' },
+    variance: { output: '1.1160' },
+    c_index: { output: 0.442 } },
+  { mean: { output: '0.9942' },
+    variance: { output: '0.9120' },
+    c_index: { output: 0.544 } },
+  { mean: { output: '0.9997' },
+    variance: { output: '1.0480' },
+    c_index: { output: 0.476 } },
+  { mean: { output: '1.0017' },
+    variance: { output: '0.9840' },
+    c_index: { output: 0.508 } },
+  { mean: { output: '0.9974' },
+    variance: { output: '1.0680' },
+    c_index: { output: 0.466 } },
+  { mean: { output: '0.9968' },
+    variance: { output: '0.9280' },
+    c_index: { output: 0.536 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '0.9989' },
+    variance: { output: '1.0560' },
+    c_index: { output: 0.472 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '0.9968' },
+    variance: { output: '1.0720' },
+    c_index: { output: 0.464 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '0.9880' },
+    c_index: { output: 0.506 } },
+  { mean: { output: '1.0012' },
+    variance: { output: '0.9720' },
+    c_index: { output: 0.514 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '0.9949' },
+    variance: { output: '1.0840' },
+    c_index: { output: 0.458 } },
+  { mean: { output: '1.0012' },
+    variance: { output: '0.9720' },
+    c_index: { output: 0.514 } },
+  { mean: { output: '0.9974' },
+    variance: { output: '0.9320' },
+    c_index: { output: 0.534 } },
+  { mean: { output: '1.0004' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0017' },
+    variance: { output: '1.0160' },
+    c_index: { output: 0.492 } },
+  { mean: { output: '0.9942' },
+    variance: { output: '0.9120' },
+    c_index: { output: 0.544 } },
+  { mean: { output: '1.0004' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '0.9942' },
+    variance: { output: '0.9120' },
+    c_index: { output: 0.544 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '1.0800' },
+    c_index: { output: 0.46 } },
+  { mean: { output: '1.0017' },
+    variance: { output: '1.0160' },
+    c_index: { output: 0.492 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '0.9880' },
+    c_index: { output: 0.506 } },
+  { mean: { output: '0.9956' },
+    variance: { output: '0.9200' },
+    c_index: { output: 0.54 } },
+  { mean: { output: '1.0007' },
+    variance: { output: '0.9640' },
+    c_index: { output: 0.518 } },
+  { mean: { output: '1.0017' },
+    variance: { output: '0.9840' },
+    c_index: { output: 0.508 } },
+  { mean: { output: '0.9845' },
+    variance: { output: '1.1320' },
+    c_index: { output: 0.434 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '1.0000' },
+    c_index: { output: 0.5 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '0.9960' },
+    c_index: { output: 0.502 } },
+  { mean: { output: '0.9997' },
+    variance: { output: '1.0480' },
+    c_index: { output: 0.476 } },
+  { mean: { output: '0.9968' },
+    variance: { output: '1.0720' },
+    c_index: { output: 0.464 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '0.9960' },
+    c_index: { output: 0.502 } },
+  { mean: { output: '1.0012' },
+    variance: { output: '1.0280' },
+    c_index: { output: 0.486 } },
+  { mean: { output: '1.0007' },
+    variance: { output: '0.9640' },
+    c_index: { output: 0.518 } },
+  { mean: { output: '0.9993' },
+    variance: { output: '0.9480' },
+    c_index: { output: 0.526 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '1.0080' },
+    c_index: { output: 0.496 } },
+  { mean: { output: '0.9949' },
+    variance: { output: '0.9160' },
+    c_index: { output: 0.542 } },
+  { mean: { output: '0.9997' },
+    variance: { output: '0.9520' },
+    c_index: { output: 0.524 } },
+  { mean: { output: '0.9974' },
+    variance: { output: '0.9320' },
+    c_index: { output: 0.534 } },
+  { mean: { output: '1.0012' },
+    variance: { output: '0.9720' },
+    c_index: { output: 0.514 } },
+  { mean: { output: '0.9997' },
+    variance: { output: '0.9520' },
+    c_index: { output: 0.524 } },
+  { mean: { output: '1.0020' },
+    variance: { output: '0.9960' },
+    c_index: { output: 0.502 } },
+  { mean: { output: '0.9935' },
+    variance: { output: '1.0920' },
+    c_index: { output: 0.454 } },
+  { mean: { output: '1.0004' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0019' },
+    variance: { output: '1.0120' },
+    c_index: { output: 0.494 } },
+  { mean: { output: '1.0004' },
+    variance: { output: '0.9600' },
+    c_index: { output: 0.52 } },
+  { mean: { output: '1.0001' },
+    variance: { output: '0.9560' },
+    c_index: { output: 0.522 } },
+  { mean: { output: '0.9856' },
+    variance: { output: '1.1280' },
+    c_index: { output: 0.436 } },
+  { mean: { output: '0.9912' },
+    variance: { output: '1.1040' },
+    c_index: { output: 0.448 } },
+  { mean: { output: '0.9935' },
+    variance: { output: '0.9080' },
+    c_index: { output: 0.546 } },
+  { mean: { output: '0.9845' },
+    variance: { output: '1.1320' },
+    c_index: { output: 0.434 } },
+  { mean: { output: '0.9962' },
+    variance: { output: '1.0760' },
+    c_index: { output: 0.462 } },
+  { mean: { output: '0.9764' },
+    variance: { output: '1.1600' },
+    c_index: { output: 0.42 } },
+  { mean: { output: '1.0012' },
+    variance: { output: '1.0280' },
+    c_index: { output: 0.486 } },
+  { mean: { output: '0.9984' },
+    variance: { output: '0.9400' },
+    c_index: { output: 0.53 } },
+  { mean: { output: '1.0010' },
+    variance: { output: '0.9680' },
+    c_index: { output: 0.516 } },
+  { mean: { output: '1.0016' },
+    variance: { output: '1.0200' },
+    c_index: { output: 0.49 } } ]
+C-index for 10 sample size
+0.5
+0.5
+0.3
+0.4
+0.2
+0.2
+0.4
+0.6
+0
+0.6
+0.4
+0.5
+0.8
+0.2
+0.4
+0.6
+0.3
+0.2
+0.4
+0.4
+0.2
+0.6
+0.4
+0.6
+0.5
+0.5
+0.6
+0.1
+0.3
+0
+0.3
+0.6
+0.4
+0.5
+0.4
+0.5
+0.3
+0.1
+0.3
+0.6
+0.3
+0.5
+0.4
+0.3
+0.3
+0.3
+0.2
+0.4
+0.5
+0.1
+0.4
+0.8
+0.5
+0.7
+0.3
+0.4
+0.8
+0.3
+1
+0.2
+0.6
+0.3
+0.1
+0.5
+0.6
+0.5
+0
+0.2
+0.2
+0.4
+0.6
+0.7
+0.6
+0.4
+0.9
+0.3
+0.7
+0.3
+0.4
+0.3
+0.1
+0.2
+0.2
+0.2
+0.4
+0.6
+0.5
+0.3
+0.5
+0.4
+0.2
+0.5
+0.4
+0.5
+0.3
+0.5
+0.8
+0.4
+0.2
+0.7
+
+C-index for 50 sample size
+0.44
+0.52
+0.52
+0.34
+0.4
+0.32
+0.36
+0.46
+0.46
+0.58
+0.56
+0.4
+0.52
+0.56
+0.76
+0.46
+0.5
+0.58
+0.6
+0.48
+0.42
+0.36
+0.5
+0.26
+0.4
+0.44
+0.54
+0.34
+0.52
+0.38
+0.34
+0.46
+0.38
+0.52
+0.54
+0.52
+0.3
+0.56
+0.52
+0.6
+0.44
+0.3
+0.6
+0.32
+0.5
+0.44
+0.28
+0.48
+0.42
+0.44
+0.54
+0.5
+0.58
+0.48
+0.54
+0.38
+0.34
+0.6
+0.44
+0.44
+0.46
+0.52
+0.56
+0.62
+0.52
+0.52
+0.5
+0.46
+0.46
+0.44
+0.44
+0.56
+0.56
+0.22
+0.42
+0.46
+0.48
+0.48
+0.48
+0.52
+0.6
+0.38
+0.5
+0.56
+0.54
+0.48
+0.52
+0.4
+0.48
+0.56
+0.48
+0.56
+0.62
+0.62
+0.46
+0.3
+0.46
+0.54
+0.5
+0.4
+
+C-index for 100 sample size
+0.5
+0.38
+0.48
+0.47
+0.52
+0.49
+0.38
+0.53
+0.66
+0.51
+0.49
+0.5
+0.48
+0.48
+0.45
+0.49
+0.54
+0.47
+0.37
+0.52
+0.52
+0.48
+0.46
+0.47
+0.47
+0.29
+0.5
+0.5
+0.44
+0.5
+0.53
+0.55
+0.36
+0.5
+0.44
+0.56
+0.49
+0.51
+0.46
+0.52
+0.33
+0.63
+0.51
+0.51
+0.41
+0.55
+0.59
+0.4
+0.51
+0.53
+0.55
+0.5
+0.46
+0.54
+0.51
+0.57
+0.5
+0.57
+0.45
+0.5
+0.46
+0.56
+0.41
+0.49
+0.52
+0.51
+0.41
+0.49
+0.48
+0.49
+0.48
+0.48
+0.54
+0.52
+0.59
+0.42
+0.48
+0.52
+0.49
+0.54
+0.45
+0.42
+0.6
+0.57
+0.46
+0.45
+0.54
+0.37
+0.46
+0.52
+0.43
+0.49
+0.56
+0.45
+0.5
+0.59
+0.47
+0.49
+0.53
+0.51
+
+C-index for 500 sample size
+0.52
+0.52
+0.526
+0.456
+0.46
+0.51
+0.576
+0.452
+0.538
+0.506
+0.548
+0.462
+0.524
+0.458
+0.45
+0.508
+0.536
+0.472
+0.51
+0.534
+0.516
+0.498
+0.526
+0.45
+0.508
+0.496
+0.536
+0.546
+0.434
+0.51
+0.496
+0.504
+0.528
+0.566
+0.536
+0.456
+0.534
+0.47
+0.486
+0.506
+0.54
+0.502
+0.442
+0.544
+0.476
+0.508
+0.466
+0.536
+0.5
+0.472
+0.54
+0.464
+0.506
+0.514
+0.54
+0.458
+0.514
+0.534
+0.52
+0.492
+0.544
+0.52
+0.544
+0.46
+0.492
+0.506
+0.54
+0.518
+0.508
+0.434
+0.5
+0.502
+0.476
+0.464
+0.502
+0.486
+0.518
+0.526
+0.496
+0.542
+0.524
+0.534
+0.514
+0.524
+0.502
+0.454
+0.52
+0.494
+0.52
+0.522
+0.436
+0.448
+0.546
+0.434
+0.462
+0.42
+0.486
+0.53
+0.516
+0.49
+
+Errors mean for 10 sample size
+1.1111
+1.1111
+0.9333
+1.0667
+0.7111
+0.7111
+1.0667
+1.0667
+0.0000
+1.0667
+1.0667
+1.1111
+0.7111
+0.7111
+1.0667
+1.0667
+0.9333
+0.7111
+1.0667
+1.0667
+0.7111
+1.0667
+1.0667
+1.0667
+1.1111
+1.1111
+1.0667
+0.4000
+0.9333
+0.0000
+0.9333
+1.0667
+1.0667
+1.1111
+1.0667
+1.1111
+0.9333
+0.4000
+0.9333
+1.0667
+0.9333
+1.1111
+1.0667
+0.9333
+0.9333
+0.9333
+0.7111
+1.0667
+1.1111
+0.4000
+1.0667
+0.7111
+1.1111
+0.9333
+0.9333
+1.0667
+0.7111
+0.9333
+0.0000
+0.7111
+1.0667
+0.9333
+0.4000
+1.1111
+1.0667
+1.1111
+0.0000
+0.7111
+0.7111
+1.0667
+1.0667
+0.9333
+1.0667
+1.0667
+0.4000
+0.9333
+0.9333
+0.9333
+1.0667
+0.9333
+0.4000
+0.7111
+0.7111
+0.7111
+1.0667
+1.0667
+1.1111
+0.9333
+1.1111
+1.0667
+0.7111
+1.1111
+1.0667
+1.1111
+0.9333
+1.1111
+0.7111
+1.0667
+0.7111
+0.9333
+
+Errors mean for 50 sample size
+1.0057
+1.0188
+1.0188
+0.9159
+0.9796
+0.8882
+0.9404
+1.0139
+1.0139
+0.9943
+1.0057
+0.9796
+1.0188
+1.0057
+0.7445
+1.0139
+1.0204
+0.9943
+0.9796
+1.0188
+0.9943
+0.9404
+1.0204
+0.7853
+0.9796
+1.0057
+1.0139
+0.9159
+1.0188
+0.9616
+0.9159
+1.0139
+0.9616
+1.0188
+1.0139
+1.0188
+0.8571
+1.0057
+1.0188
+0.9796
+1.0057
+0.8571
+0.9796
+0.8882
+1.0204
+1.0057
+0.8229
+1.0188
+0.9943
+1.0057
+1.0139
+1.0204
+0.9943
+1.0188
+1.0139
+0.9616
+0.9159
+0.9796
+1.0057
+1.0057
+1.0139
+1.0188
+1.0057
+0.9616
+1.0188
+1.0188
+1.0204
+1.0139
+1.0139
+1.0057
+1.0057
+1.0057
+1.0057
+0.7004
+0.9943
+1.0139
+1.0188
+1.0188
+1.0188
+1.0188
+0.9796
+0.9616
+1.0204
+1.0057
+1.0139
+1.0188
+1.0188
+0.9796
+1.0188
+1.0057
+1.0188
+1.0057
+0.9616
+0.9616
+1.0139
+0.8571
+1.0139
+1.0139
+1.0204
+0.9796
+
+Errors mean for 100 sample size
+1.0101
+0.9519
+1.0085
+1.0065
+1.0085
+1.0097
+0.9519
+1.0065
+0.9067
+1.0097
+1.0097
+1.0101
+1.0085
+1.0085
+1.0000
+1.0097
+1.0036
+1.0065
+0.9418
+1.0085
+1.0085
+1.0085
+1.0036
+1.0065
+1.0065
+0.8319
+1.0101
+1.0101
+0.9956
+1.0101
+1.0065
+1.0000
+0.9309
+1.0101
+0.9956
+0.9956
+1.0097
+1.0097
+1.0036
+1.0085
+0.8933
+0.9418
+1.0097
+1.0097
+0.9774
+1.0000
+0.9774
+0.9697
+1.0097
+1.0065
+1.0000
+1.0101
+1.0036
+1.0036
+1.0097
+0.9903
+1.0101
+0.9903
+1.0000
+1.0101
+1.0036
+0.9956
+0.9774
+1.0097
+1.0085
+1.0097
+0.9774
+1.0097
+1.0085
+1.0097
+1.0085
+1.0085
+1.0036
+1.0085
+0.9774
+0.9842
+1.0085
+1.0085
+1.0097
+1.0036
+1.0000
+0.9842
+0.9697
+0.9903
+1.0036
+1.0000
+1.0036
+0.9418
+1.0036
+1.0085
+0.9903
+1.0097
+0.9956
+1.0000
+1.0101
+0.9774
+1.0065
+1.0097
+1.0065
+1.0097
+
+Errors mean for 500 sample size
+1.0004
+1.0004
+0.9993
+0.9942
+0.9956
+1.0016
+0.9789
+0.9928
+0.9962
+1.0019
+0.9928
+0.9962
+0.9997
+0.9949
+0.9920
+1.0017
+0.9968
+0.9989
+1.0016
+0.9974
+1.0010
+1.0020
+0.9993
+0.9920
+1.0017
+1.0019
+0.9968
+0.9935
+0.9845
+1.0016
+1.0019
+1.0019
+0.9989
+0.9845
+0.9968
+0.9942
+0.9974
+0.9984
+1.0012
+1.0019
+0.9956
+1.0020
+0.9885
+0.9942
+0.9997
+1.0017
+0.9974
+0.9968
+1.0020
+0.9989
+0.9956
+0.9968
+1.0019
+1.0012
+0.9956
+0.9949
+1.0012
+0.9974
+1.0004
+1.0017
+0.9942
+1.0004
+0.9942
+0.9956
+1.0017
+1.0019
+0.9956
+1.0007
+1.0017
+0.9845
+1.0020
+1.0020
+0.9997
+0.9968
+1.0020
+1.0012
+1.0007
+0.9993
+1.0019
+0.9949
+0.9997
+0.9974
+1.0012
+0.9997
+1.0020
+0.9935
+1.0004
+1.0019
+1.0004
+1.0001
+0.9856
+0.9912
+0.9935
+0.9845
+0.9962
+0.9764
+1.0012
+0.9984
+1.0010
+1.0016
+
+Errors variance for 10 sample size
+1.0000
+1.0000
+1.4000
+1.2000
+1.6000
+1.6000
+1.2000
+0.8000
+2.0000
+0.8000
+1.2000
+1.0000
+0.4000
+1.6000
+1.2000
+0.8000
+1.4000
+1.6000
+1.2000
+1.2000
+1.6000
+0.8000
+1.2000
+0.8000
+1.0000
+1.0000
+0.8000
+1.8000
+1.4000
+2.0000
+1.4000
+0.8000
+1.2000
+1.0000
+1.2000
+1.0000
+1.4000
+1.8000
+1.4000
+0.8000
+1.4000
+1.0000
+1.2000
+1.4000
+1.4000
+1.4000
+1.6000
+1.2000
+1.0000
+1.8000
+1.2000
+0.4000
+1.0000
+0.6000
+1.4000
+1.2000
+0.4000
+1.4000
+0.0000
+1.6000
+0.8000
+1.4000
+1.8000
+1.0000
+0.8000
+1.0000
+2.0000
+1.6000
+1.6000
+1.2000
+0.8000
+0.6000
+0.8000
+1.2000
+0.2000
+1.4000
+0.6000
+1.4000
+1.2000
+1.4000
+1.8000
+1.6000
+1.6000
+1.6000
+1.2000
+0.8000
+1.0000
+1.4000
+1.0000
+1.2000
+1.6000
+1.0000
+1.2000
+1.0000
+1.4000
+1.0000
+0.4000
+1.2000
+1.6000
+0.6000
+
+Errors variance for 50 sample size
+1.1200
+0.9600
+0.9600
+1.3200
+1.2000
+1.3600
+1.2800
+1.0800
+1.0800
+0.8400
+0.8800
+1.2000
+0.9600
+0.8800
+0.4800
+1.0800
+1.0000
+0.8400
+0.8000
+1.0400
+1.1600
+1.2800
+1.0000
+1.4800
+1.2000
+1.1200
+0.9200
+1.3200
+0.9600
+1.2400
+1.3200
+1.0800
+1.2400
+0.9600
+0.9200
+0.9600
+1.4000
+0.8800
+0.9600
+0.8000
+1.1200
+1.4000
+0.8000
+1.3600
+1.0000
+1.1200
+1.4400
+1.0400
+1.1600
+1.1200
+0.9200
+1.0000
+0.8400
+1.0400
+0.9200
+1.2400
+1.3200
+0.8000
+1.1200
+1.1200
+1.0800
+0.9600
+0.8800
+0.7600
+0.9600
+0.9600
+1.0000
+1.0800
+1.0800
+1.1200
+1.1200
+0.8800
+0.8800
+1.5600
+1.1600
+1.0800
+1.0400
+1.0400
+1.0400
+0.9600
+0.8000
+1.2400
+1.0000
+0.8800
+0.9200
+1.0400
+0.9600
+1.2000
+1.0400
+0.8800
+1.0400
+0.8800
+0.7600
+0.7600
+1.0800
+1.4000
+1.0800
+0.9200
+1.0000
+1.2000
+
+Errors variance for 100 sample size
+1.0000
+1.2400
+1.0400
+1.0600
+0.9600
+1.0200
+1.2400
+0.9400
+0.6800
+0.9800
+1.0200
+1.0000
+1.0400
+1.0400
+1.1000
+1.0200
+0.9200
+1.0600
+1.2600
+0.9600
+0.9600
+1.0400
+1.0800
+1.0600
+1.0600
+1.4200
+1.0000
+1.0000
+1.1200
+1.0000
+0.9400
+0.9000
+1.2800
+1.0000
+1.1200
+0.8800
+1.0200
+0.9800
+1.0800
+0.9600
+1.3400
+0.7400
+0.9800
+0.9800
+1.1800
+0.9000
+0.8200
+1.2000
+0.9800
+0.9400
+0.9000
+1.0000
+1.0800
+0.9200
+0.9800
+0.8600
+1.0000
+0.8600
+1.1000
+1.0000
+1.0800
+0.8800
+1.1800
+1.0200
+0.9600
+0.9800
+1.1800
+1.0200
+1.0400
+1.0200
+1.0400
+1.0400
+0.9200
+0.9600
+0.8200
+1.1600
+1.0400
+0.9600
+1.0200
+0.9200
+1.1000
+1.1600
+0.8000
+0.8600
+1.0800
+1.1000
+0.9200
+1.2600
+1.0800
+0.9600
+1.1400
+1.0200
+0.8800
+1.1000
+1.0000
+0.8200
+1.0600
+1.0200
+0.9400
+0.9800
+
+Errors variance for 500 sample size
+0.9600
+0.9600
+0.9480
+1.0880
+1.0800
+0.9800
+0.8480
+1.0960
+0.9240
+0.9880
+0.9040
+1.0760
+0.9520
+1.0840
+1.1000
+0.9840
+0.9280
+1.0560
+0.9800
+0.9320
+0.9680
+1.0040
+0.9480
+1.1000
+0.9840
+1.0080
+0.9280
+0.9080
+1.1320
+0.9800
+1.0080
+0.9920
+0.9440
+0.8680
+0.9280
+1.0880
+0.9320
+1.0600
+1.0280
+0.9880
+0.9200
+0.9960
+1.1160
+0.9120
+1.0480
+0.9840
+1.0680
+0.9280
+1.0000
+1.0560
+0.9200
+1.0720
+0.9880
+0.9720
+0.9200
+1.0840
+0.9720
+0.9320
+0.9600
+1.0160
+0.9120
+0.9600
+0.9120
+1.0800
+1.0160
+0.9880
+0.9200
+0.9640
+0.9840
+1.1320
+1.0000
+0.9960
+1.0480
+1.0720
+0.9960
+1.0280
+0.9640
+0.9480
+1.0080
+0.9160
+0.9520
+0.9320
+0.9720
+0.9520
+0.9960
+1.0920
+0.9600
+1.0120
+0.9600
+0.9560
+1.1280
+1.1040
+0.9080
+1.1320
+1.0760
+1.1600
+1.0280
+0.9400
+0.9680
+1.0200
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8882' },
+  variance: { output: '0.6400' },
+  c_index: { output: 0.68 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9616' },
+  variance: { output: '1.2400' },
+  c_index: { output: 0.38 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8571' },
+  variance: { output: '0.6000' },
+  c_index: { output: 0.7 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '0.9200' },
+  c_index: { output: 0.54 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '1.1600' },
+  c_index: { output: 0.42 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '1.1600' },
+  c_index: { output: 0.42 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '1.2800' },
+  c_index: { output: 0.36 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9796' },
+  variance: { output: '0.8000' },
+  c_index: { output: 0.6 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '0.9200' },
+  c_index: { output: 0.54 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '1.1200' },
+  c_index: { output: 0.44 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '1.1600' },
+  c_index: { output: 0.42 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.3673' },
+  variance: { output: '0.2000' },
+  c_index: { output: 0.9 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '1.2800' },
+  c_index: { output: 0.36 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '0.8400' },
+  c_index: { output: 0.58 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '0.8800' },
+  c_index: { output: 0.56 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.3004' },
+  variance: { output: '0.1600' },
+  c_index: { output: 0.92 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8571' },
+  variance: { output: '0.6000' },
+  c_index: { output: 0.7 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8571' },
+  variance: { output: '0.6000' },
+  c_index: { output: 0.7 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8882' },
+  variance: { output: '0.6400' },
+  c_index: { output: 0.68 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '1.1600' },
+  c_index: { output: 0.42 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '1.1600' },
+  c_index: { output: 0.42 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '1.0800' },
+  c_index: { output: 0.46 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '1.0800' },
+  c_index: { output: 0.46 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '0.8400' },
+  c_index: { output: 0.58 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9616' },
+  variance: { output: '0.7600' },
+  c_index: { output: 0.62 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8882' },
+  variance: { output: '1.3600' },
+  c_index: { output: 0.32 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9796' },
+  variance: { output: '1.2000' },
+  c_index: { output: 0.4 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9796' },
+  variance: { output: '0.8000' },
+  c_index: { output: 0.6 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '0.9200' },
+  c_index: { output: 0.54 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '0.9200' },
+  c_index: { output: 0.54 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8229' },
+  variance: { output: '1.4400' },
+  c_index: { output: 0.28 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8571' },
+  variance: { output: '0.6000' },
+  c_index: { output: 0.7 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '0.9200' },
+  c_index: { output: 0.54 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8571' },
+  variance: { output: '1.4000' },
+  c_index: { output: 0.3 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8229' },
+  variance: { output: '0.5600' },
+  c_index: { output: 0.72 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.3673' },
+  variance: { output: '0.2000' },
+  c_index: { output: 0.9 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '0.7200' },
+  c_index: { output: 0.64 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '0.8800' },
+  c_index: { output: 0.56 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '1.2800' },
+  c_index: { output: 0.36 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '0.8400' },
+  c_index: { output: 0.58 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '1.0800' },
+  c_index: { output: 0.46 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8229' },
+  variance: { output: '0.5600' },
+  c_index: { output: 0.72 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '1.1200' },
+  c_index: { output: 0.44 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9796' },
+  variance: { output: '0.8000' },
+  c_index: { output: 0.6 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8229' },
+  variance: { output: '0.5600' },
+  c_index: { output: 0.72 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8882' },
+  variance: { output: '1.3600' },
+  c_index: { output: 0.32 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '0.8800' },
+  c_index: { output: 0.56 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '0.8400' },
+  c_index: { output: 0.58 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.3673' },
+  variance: { output: '1.8000' },
+  c_index: { output: 0.1 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9616' },
+  variance: { output: '1.2400' },
+  c_index: { output: 0.38 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8229' },
+  variance: { output: '0.5600' },
+  c_index: { output: 0.72 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8882' },
+  variance: { output: '1.3600' },
+  c_index: { output: 0.32 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.5486' },
+  variance: { output: '0.3200' },
+  c_index: { output: 0.84 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '0.7200' },
+  c_index: { output: 0.64 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '1.1200' },
+  c_index: { output: 0.44 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '0.7200' },
+  c_index: { output: 0.64 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '0.6800' },
+  c_index: { output: 0.66 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8882' },
+  variance: { output: '1.3600' },
+  c_index: { output: 0.32 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '0.8800' },
+  c_index: { output: 0.56 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '1.1200' },
+  c_index: { output: 0.44 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0057' },
+  variance: { output: '0.8800' },
+  c_index: { output: 0.56 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9796' },
+  variance: { output: '1.2000' },
+  c_index: { output: 0.4 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8229' },
+  variance: { output: '0.5600' },
+  c_index: { output: 0.72 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8229' },
+  variance: { output: '0.5600' },
+  c_index: { output: 0.72 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8882' },
+  variance: { output: '0.6400' },
+  c_index: { output: 0.68 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '0.8400' },
+  c_index: { output: 0.58 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '1.0800' },
+  c_index: { output: 0.46 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9616' },
+  variance: { output: '0.7600' },
+  c_index: { output: 0.62 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.8571' },
+  variance: { output: '0.6000' },
+  c_index: { output: 0.7 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.3004' },
+  variance: { output: '0.1600' },
+  c_index: { output: 0.92 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9159' },
+  variance: { output: '1.3200' },
+  c_index: { output: 0.34 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '1.2800' },
+  c_index: { output: 0.36 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '0.9600' },
+  c_index: { output: 0.52 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8229' },
+  variance: { output: '1.4400' },
+  c_index: { output: 0.28 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.7445' },
+  variance: { output: '1.5200' },
+  c_index: { output: 0.24 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.8882' },
+  variance: { output: '0.6400' },
+  c_index: { output: 0.68 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6024' },
+  variance: { output: '0.3600' },
+  c_index: { output: 0.82 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '1.2800' },
+  c_index: { output: 0.36 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0188' },
+  variance: { output: '1.0400' },
+  c_index: { output: 0.48 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.6531' },
+  variance: { output: '0.4000' },
+  c_index: { output: 0.8 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0204' },
+  variance: { output: '1.0000' },
+  c_index: { output: 0.5 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7445' },
+  variance: { output: '0.4800' },
+  c_index: { output: 0.76 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9943' },
+  variance: { output: '1.1600' },
+  c_index: { output: 0.42 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4914' },
+  variance: { output: '0.2800' },
+  c_index: { output: 0.86 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.7853' },
+  variance: { output: '0.5200' },
+  c_index: { output: 0.74 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.4310' },
+  variance: { output: '0.2400' },
+  c_index: { output: 0.88 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '0.9404' },
+  variance: { output: '0.7200' },
+  c_index: { output: 0.64 } }
+
+Cross-validation and feature selection the wrong way
+{ mean: { output: '0.7004' },
+  variance: { output: '0.4400' },
+  c_index: { output: 0.78 } }
+Cross-validation and feature selection the right way
+{ mean: { output: '1.0139' },
+  variance: { output: '0.9200' },
+  c_index: { output: 0.54 } }
+
+C-index wrong way
+0.76
+0.68
+0.8
+0.78
+0.84
+0.88
+0.84
+0.84
+0.8
+0.8
+0.74
+0.9
+0.88
+0.8
+0.92
+0.7
+0.68
+0.82
+0.84
+0.86
+0.86
+0.8
+0.74
+0.86
+0.86
+0.84
+0.84
+0.76
+0.76
+0.76
+0.84
+0.74
+0.84
+0.88
+0.74
+0.84
+0.84
+0.88
+0.78
+0.86
+0.86
+0.84
+0.86
+0.84
+0.88
+0.8
+0.72
+0.9
+0.78
+0.82
+0.8
+0.78
+0.72
+0.88
+0.78
+0.72
+0.86
+0.8
+0.84
+0.8
+0.78
+0.72
+0.8
+0.84
+0.76
+0.82
+0.8
+0.8
+0.86
+0.74
+0.82
+0.82
+0.86
+0.86
+0.74
+0.86
+0.72
+0.86
+0.88
+0.88
+0.82
+0.82
+0.82
+0.7
+0.92
+0.82
+0.88
+0.82
+0.82
+0.8
+0.82
+0.78
+0.86
+0.82
+0.78
+0.8
+0.76
+0.86
+0.88
+0.78
+C-index right way
+0.48
+0.38
+0.7
+0.54
+0.42
+0.42
+0.36
+0.6
+0.54
+0.44
+0.42
+0.36
+0.58
+0.56
+0.7
+0.5
+0.42
+0.34
+0.42
+0.5
+0.46
+0.34
+0.46
+0.5
+0.52
+0.52
+0.58
+0.62
+0.52
+0.34
+0.5
+0.32
+0.4
+0.6
+0.48
+0.54
+0.5
+0.76
+0.48
+0.48
+0.54
+0.28
+0.7
+0.48
+0.54
+0.3
+0.34
+0.64
+0.56
+0.36
+0.58
+0.46
+0.44
+0.6
+0.48
+0.32
+0.5
+0.56
+0.58
+0.1
+0.38
+0.32
+0.52
+0.52
+0.48
+0.64
+0.44
+0.64
+0.66
+0.32
+0.52
+0.56
+0.44
+0.56
+0.4
+0.74
+0.34
+0.34
+0.72
+0.68
+0.58
+0.46
+0.62
+0.34
+0.78
+0.34
+0.48
+0.76
+0.36
+0.52
+0.28
+0.24
+0.68
+0.36
+0.48
+0.5
+0.42
+0.74
+0.64
+0.54

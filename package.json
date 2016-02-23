@@ -5,6 +5,7 @@
   "dependencies": {
     "compute-euclidean-distance": "^1.0.0",
     "csvtojson": "^0.5.1",
-    "mathjs": "^2.6.0"
+    "mathjs": "^2.6.0",
+    "randgen": "^0.1.0"
   }
 }
